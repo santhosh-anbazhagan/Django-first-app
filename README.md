@@ -19,4 +19,4 @@ To get started with this project, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/django-starter-project.git
+git remote add origin https://github.com/santhosh-anbazhagan/Django-first-app.git

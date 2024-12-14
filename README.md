@@ -42,7 +42,7 @@
 
 🖼️ Example of the routing setup:
 
-![📸 Routing Example](./screenshots/routing_setup.png)
+![📸 Routing Example](sample/home.png)
 
 ---
 

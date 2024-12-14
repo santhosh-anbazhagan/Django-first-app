@@ -43,6 +43,9 @@
 🖼️ Example of the routing setup:
 
 ![📸 Routing Example](sample/home.png)
+![📸 Routing Example](sample/articles.png)
+![📸 Routing Example](sample/article_id.png)
+![📸 Routing Example](sample/hello_aliens.png)
 
 ---
 
